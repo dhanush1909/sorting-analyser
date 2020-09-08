@@ -1,0 +1,14 @@
+.compareAllContainer {
+  width: 100%;
+}
+
+.superContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.barsContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
